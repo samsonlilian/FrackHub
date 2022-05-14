@@ -1,0 +1,134 @@
+.sidebar {
+    background-color: #E8E800;
+    height: 166px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    border-radius: 30px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.main {
+    background-color: #E8E8E8;
+    height: 500px;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    border-radius: 40px;
+}
+.wallet {
+    background-color: #ffffff;
+    height: 100px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.username {
+    width: 550px;
+    background-color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 50px;
+    margin: auto;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.cardHolder {
+    width: 450px;
+    background-color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 50px;
+    margin: auto;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.smallDiv {
+    width: 100px;
+    background-color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 50px;
+    margin: auto;
+    margin-right: 400px;
+    margin-top: 30px;
+}
+
+.side {
+    display: flex;
+  flex-direction: row; 
+  justify-content: space-between;
+}
+
+.textInfo {
+    width: 300px;
+    /* padding-left: 10px; */
+    padding-right: 10px;
+    height: 50px;
+    margin-top: 30px;
+}
+
+.clickSubmit {
+   /* Rectangle 36 */
+
+width: 166px;
+height: 50px;
+left: 519px;
+top: 404px;
+margin: auto;
+background: rgba(244, 120, 6, 0.24);
+border-radius: 20px;
+
+}
+
+.loginText {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.textDetails {
+    font-size: 30px;
+}
+
+.inputUsername {
+    outline: none;
+    border: none;
+    border-style: dashed;
+}
+
+.cardTitle {
+    background-color: #ffffff;
+    height: 80px;
+    width: 800px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.heading {
+    color: #000000;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.balance {
+    color: #000000;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+.walletText {
+    color: #000000;
+    font-size: 50px;
+}
+

@@ -1,0 +1,58 @@
+.sidebar {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    background-color: #ffffff;
+}
+
+.card {
+    background-color: #c4c4c4;
+    height: 600px;
+    width: 1000px;
+    padding-top: 30px;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.clickLogin {
+    background-color: #F47806;
+    width: 300px;
+    height: 70px;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     margin-bottom: 30px;
+     border-radius: 50px;
+}
+
+.loginText {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.newMessage{
+color: #ffffff;
+font-size: 35px;
+font-weight: bold;
+margin-right: 20px;
+}
+
+.note {
+    font-size: 50px;
+}
+
+.des {
+    font-size: 25px;
+}
+
+.lendingPeriod {
+    font-size: 30px;
+}

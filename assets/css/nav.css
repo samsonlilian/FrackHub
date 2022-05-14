@@ -1,0 +1,64 @@
+.navdesk {
+    background-color: #ffffff;
+    border-bottom: #F47806;
+    border-bottom-width: 10px;
+    border-bottom-style: solid;
+    height: 100px;
+}
+
+.li {
+color: #ffffff;
+/* font-size: 300px; */
+}
+
+.brand-logo {
+    font-weight: bold;
+    color: #F47806;
+}
+
+.logo {
+    padding-right: 1200px;
+    padding-top: 15px;
+}
+
+.log {
+     color: #F47806;
+     font-size: 40px;
+}
+
+.menu {
+    background-color: #F47806;
+    height: 60px;
+    width: 60px;
+    /* margin-top: 15px; */
+    margin-right: 15px;
+    padding-bottom: 50px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.admin {
+    color: #F47806;
+    font-size: 30px;
+}
+.lend {
+    background-color: #F47806;
+    height: 63px;
+    width: 150px;
+    /* margin-top: 15px; */
+    margin-left: 50px;
+    margin-right: 15px;
+    padding-bottom: 50px;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+
+.footerDiv {
+    text-align: center;
+}
+
+.footerText {
+    font-size: 30px;
+}

@@ -1,0 +1,49 @@
+.sidebar {
+    background-color: #F47806;
+    height: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.card {
+    background-color: #c4c4c4;
+    height: 600px;
+    width: 1000px;
+    padding-top: 30px;
+     margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.clickLogin {
+    background-color: #F47806;
+    width: 300px;
+    height: 70px;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     margin-bottom: 30px;
+     border-radius: 50px;
+}
+
+.loginText {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.newMessage{
+color: #ffffff;
+font-size: 35px;
+font-weight: bold;
+margin-right: 20px;
+}
+
+.note {
+    font-size: 30px;
+}
